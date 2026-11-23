@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+body {
+    min-height: 100vh;
+    background: linear-gradient(
+        135deg,
+        #667eea,
+        #764ba2
+    );
+}
+#tech{
+    padding-left: 20px;
+}
+#hub{
+    color: purple;
+    padding-left:120px ;
+}
+#welcome{
+    padding-top: 80px;
+    padding: 30px;
+}
+#cotinue{
+    padding-top: 15px;
+}
+#journey{
+    padding-left: 30px;
+}
+#html{
+    /* display: inline; */
+    height: 30px;
+    width: 100px;
+    background-color:darkblue;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+#css{
+    /* display: inline; */
+    height: 30px;
+    width: 100px;
+    background-color:rgb(230, 27, 179);
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 20px;
+}
+#js{
+    /* display: inline; */
+    height: 30px;
+    width: 100px;
+    background-color:rgb(233, 236, 12);
+    text-align: center;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+.last{
+    padding-left: 80px;
+    padding-top: 100px;
+}
+.signup{
+    height: 550px;
+    width: 700px;
+    border-radius: 50px;
+    background-color: white;
+    margin-left: 400px;
+    margin-top: -500px;
+}
+#signup1{
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+#create{
+    color: black;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ .input{
+    color: black;
+    height: 30px;
+    width: 200px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color:black;
+    margin-left: 220px;
+    margin-top: 30px;
+    text-align: center;
+ }
+.btn{
+    height:40px;
+    width: 200px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: white;
+    background-color: purple;
+    text-align: center;
+    margin-left: 220px;
+    margin-top: 30px;
+}
+#login2{
+    height: 50px;
+    width: 150px;
+    border-radius: 50px;
+    border-color: white;
+    border-style: solid;
+    text-align: center;
+    background-color: green;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+#signup2{
+     height: 50px;
+    width: 150px;
+    border-radius: 50px;
+    border-color: white;
+    border-style: solid;
+    text-align: center;
+    background-color: green;
+    margin-left: 30px;
+}
+
+.login{
+    display: none;
+}
